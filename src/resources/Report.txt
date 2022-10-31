@@ -1,0 +1,14 @@
+***************REPORT***************
+
+Report run Date : 10/30/2022 19:51:17
+Number of Phones : 0
+Total Minutes : 0
+Total Data : 0.00
+Average Minutes : NaN
+Average Data : NaN
+
+
+***************DETAILS***************
+
+
+************END OF REPORT************
